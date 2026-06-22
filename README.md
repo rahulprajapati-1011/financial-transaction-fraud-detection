@@ -331,19 +331,6 @@ Planned next steps for the project include:
 
 ---
 
-## 16. Repository Structure
-
-```bash
-Fraud-Detection-System/
-│
-├── fraud_detection.ipynb
-├── dataset.csv
-├── fraud_xgb_model.pkl
-├── requirements.txt
-├── README.md
-└── app.py   # deployment will be added later
-```
-
 ---
 
 ## 17. Conclusion
